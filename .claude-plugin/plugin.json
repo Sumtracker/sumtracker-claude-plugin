@@ -1,0 +1,8 @@
+{
+  "name": "sumtracker",
+  "displayName": "Sumtracker",
+  "version": "1.0.0",
+  "description": "Check stock levels, review orders, and manage warehouses and sales channels from a conversation, using the Sumtracker connector and ready-made inventory workflows.",
+  "author": { "name": "Sumtracker", "url": "https://www.sumtracker.com" },
+  "license": "MIT"
+}

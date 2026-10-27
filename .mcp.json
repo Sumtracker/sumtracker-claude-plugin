@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sumtracker": {
+      "type": "http",
+      "url": "https://mcp.sumtracker.com/mcp"
+    }
+  }
+}
