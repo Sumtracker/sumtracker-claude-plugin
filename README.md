@@ -1,5 +1,3 @@
-# README
-
 # Sumtracker
 
 This is a plugin that bundles Sumtracker skills and a curated set of slash commands, so you can use Sumtracker to manage your inventory, warehouses, sales channels and reports from a conversation with Claude. 
