@@ -1,13 +1,21 @@
-# Sumtracker plugin for Claude Code
+# README
 
-This is a plugin that bundles Sumtracker skills and a curated set of slash commands, so Claude can help you manage inventory, orders, warehouses, and sales channels in your Sumtracker account.
+# Sumtracker
+
+This is a plugin that bundles Sumtracker skills and a curated set of slash commands, so you can use Sumtracker to manage your inventory, warehouses, sales channels and reports from a conversation with Claude. 
 
 ---
 
 ## Integrated Sumtracker MCP server
 
-Claude Code automatically connects to Sumtracker's hosted MCP server at:
+Claude automatically connects to Sumtracker’s hosted MCP server at:
 
 ```
 https://mcp.sumtracker.com/mcp
 ```
+
+---
+
+## Data
+
+The plugin reads and writes data directly to your Sumtracker account through MCP connection. It stores nothing itself.
