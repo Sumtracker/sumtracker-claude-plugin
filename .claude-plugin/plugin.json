@@ -2,9 +2,19 @@
   "name": "sumtracker",
   "displayName": "Sumtracker",
   "version": "1.0.0",
-  "description": "Check stock levels, review orders, and manage warehouses and sales channels from a conversation, using the Sumtracker connector and ready-made inventory workflows.",
-  "author": { "name": "Sumtracker", "url": "https://www.sumtracker.com" },
-  "license": "MIT",
+  "description": "Check stock levels, review orders, and manage warehouses and sales channels from a conversation with the Sumtracker connector, and adjust inventory with a guided workflow that confirms every change first.",
+  "author": {
+    "name": "Sumtracker",
+    "email": "support@sumtracker.com",
+    "url": "https://www.sumtracker.com"
+  },
+  "homepage": "https://www.sumtracker.com",
+  "repository": "https://github.com/Sumtracker/sumtracker-claude-plugin",
+  "license": "LicenseRef-Sumtracker-Proprietary",
+  "keywords": ["inventory", "inventory-management", "stock", "warehouse", "ecommerce", "shopify", "amazon", "multichannel"],
   "icon": "assets/icon.png",
-  "privacyPolicyUrl": "https://www.sumtracker.com/privacy-policy"
+  "documentationUrl": "https://developers.sumtracker.com/mcp",
+  "supportUrl": "https://www.sumtracker.com/contact-us",
+  "privacyPolicyUrl": "https://www.sumtracker.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.sumtracker.com/terms-of-use"
 }

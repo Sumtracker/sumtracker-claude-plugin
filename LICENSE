@@ -1,0 +1,51 @@
+Sumtracker Plugin License
+
+Copyright (c) 2026 Sumtracker Software Private Limited ("Sumtracker"). All rights reserved.
+
+This repository contains the Sumtracker plugin for Claude (the "Plugin"), including its manifest, connector
+settings, skills, documentation and images. The Plugin is proprietary to Sumtracker and is licensed, not sold. It
+is not open source. The repository is public only so that the Plugin can be installed in Claude.
+
+1. Permitted use
+
+   You may install and use the Plugin, unmodified, in Claude and other Anthropic products, only to access a
+   Sumtracker account that you are authorized to use. Copies that are made automatically when the Plugin is
+   installed or updated are part of this permitted use. Your use of Sumtracker through the Plugin is also governed
+   by the Sumtracker Terms of Service at https://www.sumtracker.com/terms-of-use.
+
+2. Restrictions
+
+   Except as section 1 allows, you may not:
+
+   a. copy, modify, translate or create derivative works of the Plugin or any part of it, including its skills
+      and instructions;
+   b. publish, distribute, sublicense, sell, rent or otherwise make the Plugin or any part of it available to
+      others;
+   c. use the Plugin or any part of it with any product or service other than Sumtracker, or to build, train or
+      improve a product or service that competes with Sumtracker;
+   d. remove or change any copyright, trademark or other notice in the Plugin.
+
+3. Distribution by Anthropic
+
+   Sumtracker permits Anthropic, PBC and its affiliates to host, copy, store, scan, review, display and distribute
+   the Plugin, unmodified, to users through Anthropic's plugin directory and products, so that users can install
+   and use it under this license.
+
+4. Trademarks
+
+   "Sumtracker", the Sumtracker logo and the icon in this repository are trademarks of Sumtracker. This license
+   grants no right to use them, except to identify the Plugin while you use it as section 1 allows.
+
+5. Termination
+
+   This license ends automatically if you break any of its terms, or when you no longer have access to a
+   Sumtracker account. You must then stop using the Plugin and delete your copies of it.
+
+6. No warranty and limitation of liability
+
+   THE PLUGIN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+   THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE FULLEST EXTENT
+   PERMITTED BY LAW, SUMTRACKER IS NOT LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE PLUGIN OR
+   ITS USE.
+
+For any use not allowed by this license, contact support@sumtracker.com.
