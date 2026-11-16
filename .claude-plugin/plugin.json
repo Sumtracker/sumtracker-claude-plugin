@@ -12,7 +12,7 @@
   "repository": "https://github.com/Sumtracker/sumtracker-claude-plugin",
   "license": "LicenseRef-Sumtracker-Proprietary",
   "keywords": ["inventory", "inventory-management", "stock", "warehouse", "ecommerce", "shopify", "amazon", "multichannel"],
-  "icon": "assets/icon.png",
+  "icon": "assets/sumtracker-logos_sumtracker-logo-nopadding-1200px.png",
   "documentationUrl": "https://developers.sumtracker.com/mcp",
   "supportUrl": "https://www.sumtracker.com/contact-us",
   "privacyPolicyUrl": "https://www.sumtracker.com/privacy-policy",
